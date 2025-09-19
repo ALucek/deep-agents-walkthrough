@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "competitive_analysis_agent": "./competitive_analysis_agent.py:competitive_analysis_agent"
+  },
+  "env": ".env"
+}
