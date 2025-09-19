@@ -30,4 +30,4 @@ This concept has adopted the name Deep Agents, with a few commonalities being ob
 3. A **file system** for context management
 4. **Sub Agents!**
 
-In this notebook, we'll discuss the theory behind why these techniques have proven successful for creating Deep Agents and ecouraging longer task execution, and provide an example of this all coming together by using open source frameworks to create our own Deep Agent!
+In this notebook, we'll discuss the theory behind why these techniques have proven successful for creating Deep Agents and encouraging longer task execution, and provide an example of this all coming together by using open source frameworks to create our own [Competitive Analysis Deep Agent](./competitive_analysis_agent)!
