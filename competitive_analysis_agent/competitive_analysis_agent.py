@@ -12,7 +12,7 @@ def internet_search(
     query: str,
     max_results: int = 5,
     topic: Literal["general", "news", "finance"] = "general",
-    include_raw_content: bool = True,
+    include_raw_content: bool = False,
 ):
     """Run a web search"""
     search_docs = tavily_client.search(

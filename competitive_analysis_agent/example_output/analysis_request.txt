@@ -1,0 +1,9 @@
+Request: Create a comprehensive competitive analysis comparing Linear and Asana as project management solutions for product development teams.
+Language: English
+Scope notes:
+- Follow full Research Methodology and cover both companies equally.
+- Emphasize features and workflows relevant to product/dev teams (issues, sprints/cycles, roadmaps, docs/specs, backlog grooming, automations, Git integrations, QA/bug workflows, AI assistants, analytics/insights, stakeholder reporting).
+- Include pricing details, packaging, and enterprise capabilities (security/compliance, SSO/SCIM, admin controls, SOC2/ISO, data residency, FedRAMP for Asana if applicable).
+- Include customer sentiment from G2/Capterra/TrustRadius and Glassdoor snippets for culture.
+- Include recent developments within the last 12 months (2024-2025): feature launches, partnerships, financial updates (Asana), hiring signals (Linear & Asana).
+- Provide actionable recommendations for buyers and competitive response strategies for each vendor.
