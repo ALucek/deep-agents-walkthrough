@@ -6,8 +6,7 @@ Below is the recommended setup for running and inspecting the competitive analys
 
 To visualize and interact with the competitive analysis agent, we will be using the [deep-agents-ui](https://github.com/langchain-ai/deep-agents-ui) repo.
 
-1. In a seperate directory/terminal, clone the repo and install the requirements
-
+1. In a seperate directory/terminal, clone the repo
 ```bash
 git clone https://github.com/langchain-ai/deep-agents-ui.git
 cd deep-agents-ui
